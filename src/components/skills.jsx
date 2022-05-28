@@ -7,6 +7,9 @@ import VUE from '../assets/vue-icon.png';
 import Tailwind from '../assets/tailwind.png';
 import Github from '../assets/github-icon.png';
 import react from '../assets/react-icon.png';
+import postman from '../assets/postman-icon.png'
+import php from '../assets/php-icon.png'
+import postgresql from '../assets/Postgresql-icon.png'
 
 
 const Skills = () => {
@@ -23,7 +26,7 @@ const Skills = () => {
                 </p>
             </div>
 
-            <div className=' w-full grid grid-cols-2 sm:grid-cols-4 text-center py-8 gap-4'>
+            <div className=' w-full grid grid-cols-2 sm:grid-cols-5 text-center gap-3'>
                 <div className=' shadow-md shadow-red-500 hover:scale-110 duration-500'>
                     <img className=' w-20 mx-auto' src={HTMl} alt="HTML-icon" />
                     <p> HTML </p>
@@ -51,6 +54,18 @@ const Skills = () => {
                 <div className=' shadow-md shadow-[#3A3A3D] hover:scale-110 duration-500 py-2'>
                     <img className=' w-20 mx-auto' src={react} alt="HTML icon" />
                     <p> React </p>
+                </div>
+                <div className=' shadow-md shadow-orange-600 hover:scale-110 duration-500'>
+                    <img className=' w-20 mx-auto' src={postman} alt="CSS-icon" />
+                    <p> Postman </p>
+                </div>
+                <div className=' shadow-md shadow-blue-400 hover:scale-110 duration-500'>
+                    <img className=' w-20 mx-auto' src={php} alt="CSS-icon" />
+                    <p> php </p>
+                </div>
+                <div className=' shadow-md shadow-blue-400 hover:scale-110 duration-500'>
+                    <img className=' w-20 mx-auto' src={postgresql} alt="CSS-icon" />
+                    <p> Postgresql </p>
                 </div>
             </div>
         </div>

@@ -14,13 +14,14 @@ const About = () => {
                 </div>
                 <div className=' max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className=' sm:text-right text-4xl font-bold'>
-                        <p> Hola, soy jesus, un gusto conocerte, espero te guste lo que estas viendo.</p>
+                        <p> Hola, soy Jesus, un gusto conocerte, espero te guste lo que estas viendo.</p>
                     </div>
                     <div>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint veritatis distinctio, repellendus dignissimos voluptas eveniet quam excepturi consequuntur laborum quas officia aliquam nesciunt illo unde, voluptates maxime doloribus. Molestias, cumque!
-                            Corrupti error maiores fuga? Cum, ullam nisi praesentium quia autem facilis odio deserunt ipsam facere, molestiae repellendus est nostrum, debitis rem officiis natus quas quibusdam dicta architecto at quod et.
-                            Dignissimos, sunt minus qui id facere eius rerum dolore officiis laborum cumque culpa eveniet? Aliquam obcaecati ad, omnis eum, tempore incidunt atque, ratione architecto sit magni qui! Enim, reiciendis optio.
+                            Mis habilidades por la tecnologia han sido gracias a launch x, un curso de "innovaccion virtual" donde gracias a ellos pude
+                            adquirir ciertas habilidades para el desarrollo de front end, como diseños, estilos, frameworks y en la base de backend, el consumo de 
+                            apis, como usar una base de datos; Me apasione mas por la parte de front ya que es lo que la gente mas suele ver y observar y yo cuando 
+                            entro a una pagina web lo que mas me gusta es el diseño UX/UI por esa razon me especialice mas por el lado de front-end. 
                         </p>
                     </div>
                 </div>

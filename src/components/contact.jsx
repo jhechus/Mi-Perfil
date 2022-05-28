@@ -9,7 +9,7 @@ const Contacto = () => {
                     Contacto
                 </p>
                 <p className=' text-gray-300 py-4 text-xl'>
-                   /* llene el formulario o escribame directamente a mi correo: <br /> "jess.osm1412@gmail.com"
+                   /* Si te gusto la pagina y quieres comunicarte conmigo porfavor llene el formulario o escribame directamente a mi correo: <br /> "jess.osm1412@gmail.com"
                 </p>
             </div>
 
